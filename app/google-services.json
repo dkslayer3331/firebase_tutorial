@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50032244569",
+    "firebase_url": "https://padc-noti-module.firebaseio.com",
+    "project_id": "padc-noti-module",
+    "storage_bucket": "padc-noti-module.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50032244569:android:ab8f96cca3b3ccf0a3fe48",
+        "android_client_info": {
+          "package_name": "com.mhst.notification_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50032244569-i4n0vtskq83ds39hnupk1bod0jcpvc9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSRZLVkPPW52v7wYmB3QQCx_qZvdBVTPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50032244569-i4n0vtskq83ds39hnupk1bod0jcpvc9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
